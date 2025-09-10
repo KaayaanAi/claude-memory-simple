@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "claude-memory-simple": {
+      "command": "node",
+      "args": [
+        "/Users/aiagentkuwait/mcp-all/done/claude-memory-simple/index.js"
+      ],
+      "cwd": "/Users/aiagentkuwait/mcp-all/done/claude-memory-simple"
+    }
+  }
+}

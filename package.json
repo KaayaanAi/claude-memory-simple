@@ -1,0 +1,54 @@
+{
+  "name": "claude-memory-simple",
+  "version": "1.0.0",
+  "description": "Simple, bulletproof MCP session memory for Claude Desktop - works out-of-the-box with file storage and zero configuration",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "claude-memory-simple": "./index.js"
+  },
+  "scripts": {
+    "setup": "npm install && node setup.js",
+    "start": "node index.js",
+    "test": "node test.js",
+    "build": "echo 'No build step required - pure JavaScript'",
+    "lint": "echo 'No linting configured - keeping it simple'",
+    "pretest": "npm run setup",
+    "release": "npm test && git add . && git commit -m 'Release v1.0.0' && git tag v1.0.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "keywords": [
+    "mcp",
+    "claude",
+    "memory",
+    "session", 
+    "simple",
+    "claude-desktop",
+    "conversation-memory",
+    "file-storage",
+    "bulletproof",
+    "zero-config"
+  ],
+  "author": "Claude AI <noreply@anthropic.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/claude-memory-simple.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/claude-memory-simple/issues"
+  },
+  "homepage": "https://github.com/yourusername/claude-memory-simple#readme",
+  "files": [
+    "index.js",
+    "setup.js", 
+    "test.js",
+    "README.md",
+    "CHANGELOG.md"
+  ]
+}
