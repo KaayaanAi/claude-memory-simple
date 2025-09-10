@@ -38,12 +38,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/claude-memory-simple.git"
+    "url": "https://github.com/KaayaanAi/claude-memory-simple.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/claude-memory-simple/issues"
+    "url": "https://github.com/KaayaanAi/claude-memory-simple/issues"
   },
-  "homepage": "https://github.com/yourusername/claude-memory-simple#readme",
+  "homepage": "https://github.com/KaayaanAi/claude-memory-simple#readme",
   "files": [
     "index.js",
     "setup.js", 

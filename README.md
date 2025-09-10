@@ -1,6 +1,6 @@
 # Claude Memory Simple 🧠
 
-[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/yourusername/claude-memory-simple/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/KaayaanAi/claude-memory-simple/releases/tag/v1.0.0)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node.js-18%2B-green.svg)](https://nodejs.org)
 [![Claude Desktop](https://img.shields.io/badge/claude--desktop-compatible-purple.svg)](https://claude.ai)
@@ -14,7 +14,7 @@ No MongoDB, no complex configuration, no headaches. Just simple, reliable conver
 ## ⚡ Quick Start (3 commands)
 
 ```bash
-git clone https://github.com/yourusername/claude-memory-simple.git
+git clone https://github.com/KaayaanAi/claude-memory-simple.git
 cd claude-memory-simple
 npm run setup
 ```
